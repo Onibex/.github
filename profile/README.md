@@ -22,8 +22,8 @@ The only **SAP-verified** integration platform to extract real-time data and met
 OneConnect is composed of three integrated components:
 
 - **Onibex Marketplace:** 150+ pre-packaged SAP Data Products, ready to deploy.
-- **Connector for SAP:** SAP Data Modeler (low-code / no-code) + Smart Gateway (Kubernetes-based streaming engine powered by Apache Kafka and Confluent Schema Registry).
-- **Premium Connectors:** Confluent Gold-Verified connectors for Databricks, Snowflake, and ClickHouse.
+- **Connector for SAP:** SAP Data Modeler (low-code / no-code tool) + Smart Gateway (Kubernetes-based streaming engine powered by Apache Kafka and Confluent Schema Registry).
+- **Premium Connectors:** Confluent Gold-Verified connectors for Databricks, Snowflake, ClickHouse, and many more!.
 
 **Key capabilities:** real-time replication, automatic schema evolution, INSERT/UPDATE/DELETE support, idempotent writes, and cloud-agnostic deployment across AWS, Azure, GCP, and SAP BTP.
 
