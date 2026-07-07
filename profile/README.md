@@ -1,11 +1,12 @@
-# Hi there, we are Onibex 👋
+<img width="4168" height="1064" alt="Onibex_logo-azul1213" src="https://github.com/user-attachments/assets/9514ac42-a356-41b4-9751-5c7d789cf713" />
 
-**Your SAP ERP connected to people, systems, and things in a single platform to accelerate digital transformation.**
+# We are Onibex 👋
 
-Onibex is a global software and services company specialized in **SAP integration**, **agentic AI**, and **B2B eCommerce**. We help enterprises unlock the full value of their SAP data through real-time streaming, intelligent automation, and self-service digital commerce, all built with SAP best practices and enterprise-grade governance.
+**Your SAP ERP data connected to people, systems, and things in a single platform to accelerate digital transformation.**
+
+Onibex is a global software and services company specialized in **SAP data integration**, **agentic AI**, and **B2B/B2C eCommerce**. We help enterprises unlock the full value of their SAP data through real-time streaming, intelligent automation, and self-service digital commerce, all built with SAP best practices and enterprise-grade governance.
 
 - 🌐 Learn more about us at [onibex.com](https://www.onibex.com).
-- 📚 Read our [OneConnect documentation](https://github.com/Onibex/OnibexOneConnect).
 - 🚀 Take the [15-Hour Business Value Challenge](https://www.onibex.com).
 - 📧 Get in touch: [contact@onibex.com](mailto:contact@onibex.com).
 
@@ -23,7 +24,7 @@ OneConnect is composed of three integrated components:
 
 - **Onibex Marketplace:** 150+ pre-packaged SAP Data Products, ready to deploy.
 - **Connector for SAP:** SAP Data Modeler (low-code / no-code tool) + Smart Gateway (Kubernetes-based streaming engine powered by Apache Kafka and Confluent Schema Registry).
-- **Premium Connectors:** Confluent Gold-Verified connectors for Databricks, Snowflake, ClickHouse, and many more!.
+- **Premium Connectors:** Gold-Verified connectors for Databricks, Snowflake, ClickHouse, and many more destinies!.
 
 **Key capabilities:** real-time replication, automatic schema evolution, INSERT/UPDATE/DELETE support, idempotent writes, and cloud-agnostic deployment across AWS, Azure, GCP, and SAP BTP.
 
@@ -43,7 +44,7 @@ Built on **SAP AI Core**, **SAP AI Launchpad**, and **SAP HANA Cloud**, ASK inte
 
 ### 🛒 eCommerce 360°
 
-An **all-inclusive B2B eCommerce platform** fully integrated with SAP ERP to manage your wholesale business end to end. Designed for business owners, product engineers, sales teams, and customers alike.
+An **all-inclusive B2B/B2C eCommerce platform** fully integrated with SAP ERP to manage your wholesale business end to end. Designed for business owners, product engineers, sales teams, and customers alike.
 
 **Key capabilities:**
 
