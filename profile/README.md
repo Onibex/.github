@@ -2,7 +2,7 @@
 
 # We are Onibex 👋
 
-**Your SAP ERP data connected to people, systems, and things in a single platform to accelerate digital transformation.**
+**YOnibex connects your SAP ERP data to people, systems, and things in real time; all from a single platform, all while keeping your SAP core clean and compliant.**
 
 Onibex is a global software and services company specialized in **SAP data integration**, **agentic AI**, and **B2B/B2C eCommerce**. We help enterprises unlock the full value of their SAP data through real-time streaming, intelligent automation, and self-service digital commerce, all built with SAP best practices and enterprise-grade governance.
 
@@ -36,15 +36,17 @@ OneConnect is composed of three integrated components:
 
 **AI-powered semantic querying over your SAP Data Products.** ASK combines agentic AI, semantic search, and retrieval-augmented generation (RAG) to let business users ask natural-language questions about their SAP data and receive accurate, grounded, context-aware answers.
 
-Built on **SAP AI Core**, **SAP AI Launchpad**, and **SAP HANA Cloud**, ASK integrates seamlessly with OneConnect to bring conversational intelligence to your real-time SAP data pipelines. Deployed on **SAP BTP Kyma** with enterprise-grade governance and security.
+**What makes ASK different:** ASK is the **only semantic layer that operates at the Data Product level (Silver and Gold)**, not at the raw table level (Bronze) like every other semantic layer in the market. This means ASK understands your SAP data the way your business does, in terms of governed, business-ready Data Products, not fragmented technical tables. We built our own semantic layer because nothing in the market solved this problem.
 
-**Key capabilities:** natural-language querying, agent orchestration, vector-based semantic search, RAG grounding on live SAP data, and role-aware conversational access.
+Cloud-agnostic and deployment-flexible, ASK runs seamlessly on **SAP BTP Kyma**, hyperscaler Kubernetes (AWS, Azure, GCP), or any managed Kubernetes environment. It integrates natively with OneConnect to bring conversational intelligence to your real-time SAP data pipelines, with enterprise-grade governance and security.
+
+**Key capabilities:** natural-language querying, agent orchestration, vector-based semantic search, **Graph reasoning at the Data Product level (Silver/Gold)**, RAG grounding on live SAP data, and role-aware conversational access.
 
 ---
 
 ### 🛒 eCommerce 360°
 
-An **all-inclusive B2B/B2C eCommerce platform** fully integrated with SAP ERP to manage your wholesale business end to end. Designed for business owners, product engineers, sales teams, and customers alike.
+An **all-inclusive B2B/B2C eCommerce platform** fully integrated with SAP ERP to manage your business end to end. 
 
 **Key capabilities:**
 
