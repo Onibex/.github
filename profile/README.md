@@ -2,7 +2,7 @@
 
 # We are Onibex 👋
 
-**YOnibex connects your SAP ERP data to people, systems, and things in real time; all from a single platform, all while keeping your SAP core clean and compliant.**
+**Onibex connects your SAP ERP data to people, systems, and things in real time; all from a single platform, all while keeping your SAP core clean and compliant.**
 
 Onibex is a global software and services company specialized in **SAP data integration**, **agentic AI**, and **B2B/B2C eCommerce**. We help enterprises unlock the full value of their SAP data through real-time streaming, intelligent automation, and self-service digital commerce, all built with SAP best practices and enterprise-grade governance.
 
