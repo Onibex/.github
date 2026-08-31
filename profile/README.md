@@ -28,7 +28,7 @@ OneConnect is composed of three integrated components:
 
 **Key capabilities:** real-time replication, automatic schema evolution, INSERT/UPDATE/DELETE support, idempotent writes, and cloud-agnostic deployment across AWS, Azure, GCP, and SAP BTP.
 
-📖 [Explore the OneConnect documentation](https://github.com/Onibex/OnibexOneConnect)
+📖 [Explore the OneConnect documentation](https://github.com/Onibex/oneconnect-docs)
 
 ---
 
@@ -41,6 +41,10 @@ OneConnect is composed of three integrated components:
 Cloud-agnostic and deployment-flexible, ASK runs seamlessly on **SAP BTP Kyma**, hyperscaler Kubernetes (AWS, Azure, GCP), or any managed Kubernetes environment. It integrates natively with OneConnect to bring conversational intelligence to your real-time SAP data pipelines, with enterprise-grade governance and security.
 
 **Key capabilities:** natural-language querying, agent orchestration, vector-based semantic search, **Graph reasoning at the Data Product level (Silver/Gold)**, RAG grounding on live SAP data, and role-aware conversational access.
+
+📖 [Explore the ASK documentation](https://github.com/Onibex/agentic-semantic-knowledge-ask)
+
+📄 [Explore the ASK Semantic Model Definition (open YAML specification)](https://github.com/Onibex/ASK-Semantic-Model-Definition)
 
 ---
 
@@ -57,6 +61,8 @@ An **all-inclusive B2B/B2C eCommerce platform** fully integrated with SAP ERP to
 - AWS-certified infrastructure for enterprise-grade security, reliability, and scalability.
 
 Onibex is the **only company in the world capable of offering a Proof of Concept integrated to your SAP system in 10 days**.
+
+📖 [Explore the eCommerce documentation](https://github.com/Onibex/ecommerce-docs)
 
 ---
 
