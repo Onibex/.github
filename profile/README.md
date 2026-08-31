@@ -44,8 +44,6 @@ Cloud-agnostic and deployment-flexible, ASK runs seamlessly on **SAP BTP Kyma**,
 
 📖 [Explore the ASK documentation](https://github.com/Onibex/agentic-semantic-knowledge-ask)
 
-📄 [Explore the ASK Semantic Model Definition (open YAML specification)](https://github.com/Onibex/ASK-Semantic-Model-Definition)
-
 ---
 
 ### 🛒 eCommerce 360°
