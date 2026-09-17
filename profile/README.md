@@ -16,7 +16,7 @@ Onibex is a global software and services company specialized in **SAP data integ
 
 We offer three integrated solutions, each designed to solve a specific enterprise challenge while sharing the same SAP-verified foundation.
 
-### 🔌 OneConnect
+### 🔌 [OneConnect](https://github.com/Onibex/oneconnect-docs)
 
 The only **SAP-verified** integration platform to extract real-time data and metadata from SAP ECC and S/4HANA into modern cloud data platforms. Available in the [SAP Store](https://store.sap.com).
 
